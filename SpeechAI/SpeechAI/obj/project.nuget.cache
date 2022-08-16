@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "a8gEYPVaNLAxNBAV0E7sjOWlj6xtLZ2WT1jXxPifji3IdVntqid44fjEQMUiZiZP9ifo7rtUhBuvLJ+pr9rciw==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\user\\source\\repos\\SpeechAI\\SpeechAI\\SpeechAI.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\user\\.nuget\\packages\\microsoft.cognitiveservices.speech\\1.23.0\\microsoft.cognitiveservices.speech.1.23.0.nupkg.sha512"
+  ],
+  "logs": []
+}
